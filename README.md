@@ -14,4 +14,4 @@
 - **Listar autores registrados**: Muestra una lista de todos los autores registrados.
 - **Listar autores vivos en un determinado año**: Permite al usuario listar autores que estaban vivos en un año específico.
 - **Listar libros por idioma**: Permite al usuario listar libros filtrados por idioma.
-- **Salir*: Opción para salir del programa.
+- **Salir**: Opción para salir del programa.
